@@ -1,0 +1,5 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Architecture.Sample.Expand/.vs/Architecture.Sample.Expand/v16/Server/sqlite3
